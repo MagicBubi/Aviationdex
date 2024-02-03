@@ -1,5 +1,7 @@
 # Privacy Policy of Aviationdex
-This document explains, what data we collect.
+Thank you for using Aviationdex Discord Bot!
+
+This Privacy Policy outlines how we collect, use, and protect your data. By using our bot, you agree to the terms outlined below.
 ## What data is collected?
 * User IDs, to identify the user in the database
 * Server (or guild) IDs, to store settings necessary to the bot's operation
@@ -11,14 +13,23 @@ Additionally following data is collected inside your server:
 ## How is it stored?
 All data is stored on a PostgreSQL server, running on a Virtual Private Machine hosted by Oracle Corportation.
 
+The data is protected from unauthorized access, disclosure, alteration and destruction.
+
 Interaction between the bot and the server is well secured and exclusively.
 
 ## Access to the data
 Only the administrators (currently only the Owner) have access to this data.
 Your data will never be made public!
 
-## Further information
-If you have any question about the security of your data or if you want your data to be deleted, then you can join the official Supportserver, create a ticket or directly message an administrator.
+## Data Retention
+Duration: We retain your data only for as long as necessary to provide the bot's services and fulfill the purposes outlined in this policy.
 
-Link to the support server can be found with the /about command of the bot or directly beneath this message.
+Deletion: Upon your request or discontinuation of bot usage, we will promptly delete your data from our records. You can request the deletion of your data via joining the [official Support server](https://discord.gg/YaBGNahF9U), creating a support ticket or by directly messaging an administrator
+
+## Further information
+You can request further information by joining the support server, creating a ticket or by directly messaging an administrator.
+
+
 Support server: https://discord.gg/YaBGNahF9U
+
+Thank you for entrusting Aviationdex with your data. We are committed to ensuring a secure and enjoyable experience for all users.
